@@ -1,0 +1,2 @@
+C:\Users\PC\source\repos\daynadunbar1.com\daynadunbar1.com\obj\Release\daynadunbar.com.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\daynadunbar1.com\daynadunbar1.com\obj\Release\daynadunbar.com.csproj.CoreCompileInputs.cache
